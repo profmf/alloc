@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+}
+
+#canvas {
+    width: 800px;
+    height: 600px;
+}
+
+.empty {
+    background-color: blueviolet;
+}
+
+.memory {
+    display: flex;
+    border: 3px solid black;
+    height: 200px;
+}
+
+.memory {
+    background: goldenrod;
+}
